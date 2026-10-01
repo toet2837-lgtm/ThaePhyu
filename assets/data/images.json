@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "background": "images/hero/hero-bg.jpg"
+  },
+  "about": {
+    "image": "images/hero/about.jpg"
+  },
+  "portfolio": [
+    {
+      "id": "pw-001",
+      "category": "prewedding",
+      "title": "Sunset Love Story",
+      "image": "images/prewedding/pw-001.jpg",
+      "featured": true
+    },
+    {
+      "id": "pw-002",
+      "category": "prewedding",
+      "title": "Garden Romance",
+      "image": "images/prewedding/pw-002.jpg",
+      "featured": false
+    },
+    {
+      "id": "pw-003",
+      "category": "prewedding",
+      "title": "Beach Memories",
+      "image": "images/prewedding/pw-003.jpg",
+      "featured": false
+    },
+    {
+      "id": "wd-001",
+      "category": "wedding",
+      "title": "Traditional Myanmar Wedding",
+      "image": "images/wedding/wd-001.jpg",
+      "featured": true
+    },
+    {
+      "id": "wd-002",
+      "category": "wedding",
+      "title": "Church Ceremony",
+      "image": "images/wedding/wd-002.jpg",
+      "featured": false
+    },
+    {
+      "id": "wd-003",
+      "category": "wedding",
+      "title": "Reception Moments",
+      "image": "images/wedding/wd-003.jpg",
+      "featured": false
+    },
+    {
+      "id": "inv-001",
+      "category": "invitation",
+      "title": "Elegant Gold Invitation",
+      "image": "images/invitation/inv-001.jpg",
+      "featured": true
+    },
+    {
+      "id": "inv-002",
+      "category": "invitation",
+      "title": "Floral Wedding Card",
+      "image": "images/invitation/inv-002.jpg",
+      "featured": false
+    },
+    {
+      "id": "inv-003",
+      "category": "invitation",
+      "title": "Minimalist Design",
+      "image": "images/invitation/inv-003.jpg",
+      "featured": false
+    },
+    {
+      "id": "bt-001",
+      "category": "beauty",
+      "title": "Natural Beauty Portrait",
+      "image": "images/beauty/bt-001.jpg",
+      "featured": true
+    },
+    {
+      "id": "bt-002",
+      "category": "beauty",
+      "title": "Glamour Shoot",
+      "image": "images/beauty/bt-002.jpg",
+      "featured": false
+    },
+    {
+      "id": "bt-003",
+      "category": "beauty",
+      "title": "Traditional Makeup",
+      "image": "images/beauty/bt-003.jpg",
+      "featured": false
+    },
+    {
+      "id": "ps-001",
+      "category": "passport",
+      "title": "Professional ID Photo",
+      "image": "images/passport/ps-001.jpg",
+      "featured": false
+    },
+    {
+      "id": "ps-002",
+      "category": "passport",
+      "title": "Visa Photo",
+      "image": "images/passport/ps-002.jpg",
+      "featured": false
+    },
+    {
+      "id": "ps-003",
+      "category": "passport",
+      "title": "NRC Photo",
+      "image": "images/passport/ps-003.jpg",
+      "featured": false
+    }
+  ],
+  "instagram": [
+    "images/prewedding/pw-001.jpg",
+    "images/wedding/wd-001.jpg",
+    "images/beauty/bt-001.jpg",
+    "images/invitation/inv-001.jpg",
+    "images/prewedding/pw-002.jpg",
+    "images/wedding/wd-002.jpg"
+  ]
+}
